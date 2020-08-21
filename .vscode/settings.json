@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/sebastian/anaconda3/envs/biomart/bin/python",
+    "python.pythonPath": "/Users/kursch0000-adm/opt/miniconda3/envs/dev/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
